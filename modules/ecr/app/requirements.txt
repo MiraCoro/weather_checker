@@ -1,0 +1,4 @@
+boto3==1.24.68
+json5==0.9.10
+requests==2.28.1
+tabulate==0.8.10
